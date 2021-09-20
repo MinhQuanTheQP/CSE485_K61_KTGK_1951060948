@@ -1,0 +1,25 @@
+body{
+    margin:0px;
+}
+
+#header{
+    height: 100px;
+}
+
+.logo{
+    background-color: antiquewhite;
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+.language{
+    background-color: beige;
+    width: 60%;
+    float: right;
+    height: 100%;
+}
+
+.clear-float{
+    clear:both;
+}
